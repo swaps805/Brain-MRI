@@ -36,7 +36,7 @@ Two loss functions are used to optimize the segmentation performance: Dice Loss 
 - **Dice Coefficient**: Dice Loss measures the overlap between the predicted segmentation and the ground truth.
 - **Intersection over Union (IOU)**: IoU measures the overlap between the predicted segmentation and the ground truth segmentation. It is calculated as the ratio of the area of intersection between the predicted and ground truth regions to the area of their union.
 
-![Loss-Metric](./images/loss-metrics.jpg)
+![Loss-Metric](./images/loss_metrics.jpg)
 
 ## Training evaluation
 ![Loss-Metric](./images/train_metrics.jpg)
